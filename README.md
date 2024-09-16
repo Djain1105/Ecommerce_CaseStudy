@@ -13,5 +13,5 @@ Create an assessment report including the following:
 ## Tools Used
 * Excel
    
-Schema- Music Store Database  
+Store Layout
 ![Layout](https://github.com/Djain1105/Ecommerce_CaseStudy/blob/main/layout.jpg)
